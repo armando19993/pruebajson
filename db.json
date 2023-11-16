@@ -76,6 +76,13 @@
         "titulo": "Desarrollo de alimentos transgénicos resistentes a la sequía",
         "fecha": "2023-11-05",
         "descripcion": "Investigadores logran crear alimentos transgénicos que pueden resistir condiciones de sequía, ofreciendo una solución potencial para enfrentar los desafíos del cambio climático en la agricultura."
+      },
+      {
+        "id": 12,
+        "imagen": "https://img.freepik.com/vector-premium/plantilla-banner-web-portada-redes-sociales-servicio-agricultura-agricola_506626-109.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699142400&semt=ais",
+        "titulo": "Prueba de api",
+        "fecha": "2024-12-10",
+        "descripcion": "descripcion"
       }
     ],
     "profile": {
